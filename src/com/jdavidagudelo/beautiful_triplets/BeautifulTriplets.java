@@ -1,4 +1,4 @@
-package com.jdavidagudelo.beutiful_triplets;
+package com.jdavidagudelo.beautiful_triplets;
 
 public class BeautifulTriplets {
     public int getBeautifulTriplets(int[] a, int d){
